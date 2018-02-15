@@ -1,2 +1,3 @@
-# StepicWebServicesPart2_lesson1
-#Passed tests 84e4f6e6f9cbc2bf4a3fde0de91bed3e
+# StepicWebServicesPart2_lesson1-2
+#Passed first tests 84e4f6e6f9cbc2bf4a3fde0de91bed3e
+#Passed second tests 4657b067a2b332a851bc8b88b1521870
